@@ -127,7 +127,7 @@ PATH
       cocoapods-downloader (>= 1.6.0, < 2.0)
       cocoapods-plugins (>= 1.0.0, < 2.0)
       cocoapods-search (>= 1.0.0, < 2.0)
-      cocoapods-trunk (>= 1.4.0, < 2.0)
+      cocoapods-trunk (>= 1.6.0, < 2.0)
       cocoapods-try (>= 1.1.0, < 2.0)
       colored2 (~> 3.1)
       escape (~> 0.0.4)
@@ -185,7 +185,7 @@ GEM
       no_proxy_fix
       octokit (~> 4.7)
       terminal-table (>= 1, < 4)
-    diffy (3.4.0)
+    diffy (3.4.2)
     docile (1.4.0)
     escape (0.0.4)
     ethon (0.15.0)
